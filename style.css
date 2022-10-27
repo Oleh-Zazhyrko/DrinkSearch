@@ -45,7 +45,7 @@ body {
     z-index: -1;
 }
 
-h1 {
+.title {
     margin-bottom: 30px;
     color: #fff;
     font-size: 50px;
@@ -65,21 +65,21 @@ h1 {
 
 }
 
-h2 {
+.list-title {
     padding: 30px 0;
 }
 
-ul {
+.drink-list {
     padding-bottom: 30px;
     font-size: 23px;
     list-style: none;
 }
 
-li {
+.drink-item {
     padding: 8px 30px;
     border-bottom: 1px solid rgb(226,226,226);
 }
 
-li:last-child {
+.drink-item:last-child {
     border-bottom: 0;
 }
