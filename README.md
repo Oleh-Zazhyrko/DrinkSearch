@@ -1,1 +1,1 @@
-https://github.com/Oleh-Zazhyrko/DrinkSearch/index.html
+[Open page](https://Oleh-Zazhyrko.github.io/DrinkSearch/index.html)
